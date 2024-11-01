@@ -1,2 +1,2 @@
 # fastReactPizzaUdemyCourseProject
-React application done while learning from an udemy course
+React application for pizza delivery
